@@ -1,20 +1,2 @@
-/ .gradle /
-/ construir /
-/ papelera /
-
-# Creado por https://www.gitignore.io/api/gradle,jmeter,eclipse
-
-# ## Idea inteligente ###
-# Cosas específicas del usuario:
-.idea / ** / tareas.xml
-.idea / diccionarios
-# Archivos confidenciales o de alta rotación:
-.idea / ** / fuentes de datos /
-.idea / ** / fuentes de datos.ids
-.idea / ** / fuentes de datos.xml
-.idea / ** / fuentes de datos.local.xml
-.idea / ** / sqlDataSources.xml
-.idea / ** / dinámico.xml
-.idea / ** / uiDesigner.xml
-#Gradle :
-# CHacer
+.idea/
+/.idea/
